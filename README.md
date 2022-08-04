@@ -43,3 +43,5 @@ Black & White Image Converter
 
 * 0.1
     * Initial Release
+* 0.2
+    * Using Pillow the converted TIFF Image is in lower version (4.0), so used ImageMagick and saved to TIFF Version 5.0
