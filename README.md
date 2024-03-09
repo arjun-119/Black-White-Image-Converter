@@ -1,4 +1,4 @@
-# Project Title
+# Application Title
 
 Black & White Image Converter
 
